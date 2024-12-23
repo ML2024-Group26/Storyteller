@@ -10,13 +10,13 @@ the effectiveness of the model in capturing the unique stylistic
 and thematic elements of fantasy narratives, offering insights
 into optimizing large language models for genre-specific creative
 applications.
-# Access our models
-Please check refers to our models on [Hugging Face](https://huggingface.co/Group-26)
-You can try our model by downloading Ollama and run
+# Access Our Models
+Please check out our models on [Hugging Face](https://huggingface.co/Group-26).  
+You can try our model by downloading Ollama and running: 
 ```
 ollama run hf.co/Group-26/storyteller_v9:Q8_0
 ```
-to download and inference our best performance v9 model.
+to download and perform inference with our best-performing v9 model.  
 
 ### Files in our project
     .
