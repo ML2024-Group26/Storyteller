@@ -10,6 +10,8 @@ the effectiveness of the model in capturing the unique stylistic
 and thematic elements of fantasy narratives, offering insights
 into optimizing large language models for genre-specific creative
 applications.
+# Access our models
+Please check refers to our models on [Hugging Face](https://huggingface.co/Group-26)
 
 ### Files in our project
     .
