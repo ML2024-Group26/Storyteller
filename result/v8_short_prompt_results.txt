@@ -1,0 +1,10 @@
+Prompt:
+Tell a story about a lonely knight.
+
+Response:
+Sir Lucas, the most skilled but troubled knight of his time, wandered the desolate landscape beyond his kingdom’s
+borders. Haunted by nightmares of battles he could not win and loved ones he lost, he searched for redemption. One
+day, while exploring an ancient ruin, he found a worn tapestry depicting a hero vanquishing darkness. Inspired,
+Lucas returned to his land, determined to protect it from the shadows that plagued its people. Though still
+haunted by his demons, he became a guardian of hope, and slowly, the ghosts of his past began to fade as others
+came to see him as brave and kind.
