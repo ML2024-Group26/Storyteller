@@ -1,4 +1,5 @@
 ### Files in Our Project
+```
 .
 ├── Fantasy Novels                      # Original data from dataset : fantasy books
 ├── finetune data                       # Training datasets for fine-tuning
@@ -11,3 +12,4 @@
 ├── Llama3.2 Unsloth.ipynb              # Unsloth finetune template for Llama3.2
 ├── Training Data Generator.ipynb       # Run Semantic Splitting and generate training pairs by previous and next paragraph
 └── Training_Data_Generator_First_Prompt.ipynb # Run Semantic Splitting and generate training pairs of initial prompts
+```
